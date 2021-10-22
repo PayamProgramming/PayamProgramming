@@ -2,7 +2,6 @@
 - 👀 I’m interested in java projects and cryptocurency projects
 - 🌱 I’m currently learning spring , java-mobile , jsp , ajax
 - 💞️ I’m looking to collaborate on a java projects
-- 
 - 📫 How to reach me payamaghaei22@gmail.com
 
 <!---

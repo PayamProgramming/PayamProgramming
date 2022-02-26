@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Payam Aghaei
 - 👀 I’m interested in java projects and cryptocurency projects
-- 🌱 I’m currently learning spring , java-mobile , jsp , ajax
+- 🌱 I’m currently learning spring , java-mobile , ajax , groovy
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me payamaghaei22@gmail.com
 

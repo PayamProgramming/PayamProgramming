@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Payam Aghaei
 - 👀 I’m interested in Java projects and Cryptocurency projects
-- 🌱 I’m currently learning Spring , Spring Boot , Ajax , Junit5 , JSF
+- 🌱 I’m currently learning Spring , Spring Boot , Hibernate , Microservices , IAM & PAM
 - 💞️ I’m looking to collaborate on Java and Backend development projects 
 - 📫 How to reach me payamaghaei22@gmail.com
 
